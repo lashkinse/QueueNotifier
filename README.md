@@ -3,8 +3,8 @@
 ![](https://github.com/lashkinse/QueueNotifier/raw/main/screens/2.png)
 
 ## Стек технологий
-* autoit
-* autoit-winhttp
+* AutoIt
+* AutoIt-WinHTTP
 * mailsend
 
 # Установка
