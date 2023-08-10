@@ -1,6 +1,6 @@
 # QueueNotifier
 Программа предназначена для мониторинга предварительной записи на сайте mfc63.ru и оповещения о записи на произвольную электронную почту. Программа будет повторять отправку по таймеру, пока в списке есть хотя бы 1 клиент
-![](https://github.com/lashkinse/QueueNotifier/raw/main/screens/2.png)
+![](https://github.com/lashkinse/QueueNotifier/raw/main/screenshots/Notify.png)
 
 ## Стек технологий
 * AutoIt
@@ -44,7 +44,7 @@
 - **Простой способ**
 
 Нужный номер указан на странице http://mfc63.samregion.ru/user
-![](https://github.com/lashkinse/QueueNotifier/raw/main/screens/3.png)
+![](https://github.com/lashkinse/QueueNotifier/raw/main/screenshots/Stand.png)
 
 - **Сложный способ**
 
